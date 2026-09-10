@@ -1,6 +1,7 @@
 {
-  "name": "watch-party-app",
+  "name": "y-love-s",
   "version": "1.0.0",
+  "description": "Y Love S Watch Together App",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
